@@ -1,1 +1,4 @@
 # sailos
+mifo
+introp
+local
